@@ -1,6 +1,9 @@
 @import url('./css/cabecalho.css');
 @import url('./css/destaque.css');
 @import url('./css/servicos.css');
+@import url('./css/planos.css');
+@import url('./css/ofertas.css');
+@import url('./css/parceiros.css');
 
 :root {
     /* Cores */
@@ -15,6 +18,9 @@
     --cor-neutra-dark: #444444;
     --cor-neutra-medio: #b9b9b9;
     --cor-neutra-light: #ffffff;
+
+    --cor-primaria-box-shadow: rgba(193, 55, 36, 0.4);
+    --cor-secundaria-box-shadow: rgba(162, 183, 43, 0.4);
 
     /* Tipografia */
     --font-sigmar: "Sigmar", sans-serif;
